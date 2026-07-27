@@ -12,3 +12,6 @@ draft: false
 - 文章都住在 `src/content/blog/`，front matter 就是属性面板里的表单
 - 在 InkGrove 里保存即 commit，发布可以直推或走 PR
 - 本地跑站点：`npm install && npm run dev`
+
+
+测试一下吧
